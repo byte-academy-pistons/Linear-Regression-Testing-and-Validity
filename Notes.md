@@ -25,6 +25,8 @@ Avoid by:
 plotting residuals. 
 Durbon-Watson test
 
+Fix by: https://stackoverflow.com/questions/39840890/how-to-use-lagged-time-sereis-variables-in-a-python-pandas-regression-model
+
 **Assumption V: Error term has constant variance (Heteroskacdicity)**
 
 This assumption is violated when different variances for the error terms exist. This mostly occurs in cross-sectional data (data over multiple subjects) and where there is a wide spread between the largest and smallest observed for for the dependent variable. 
